@@ -65,6 +65,8 @@ moment().calendar(NSNull(), [
 ## Built with
 
 * [moment.js](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates in javascript.
+* [Swift](https://developer.apple.com/swift/) - The powerful programming language that is also easy to learn.
+* [JavaScriptCore Framework](https://developer.apple.com/documentation/javascriptcore) - Evaluate JavaScript programs from within your Swift app.
 
 
 ## Contributing
