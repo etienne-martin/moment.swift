@@ -1,15 +1,15 @@
 # moment.swift
-A lightweight Swift date library for parsing, validating, manipulating, and formatting dates based on [moment.js](https://github.com/moment/moment).
-
-The goal of this project is to help developers leverage the power of moment.js in their Swift applications. 
+A lightweight Swift date library for parsing, validating, manipulating, and formatting dates based on [moment.js](https://github.com/moment/moment). 
 
 ## Under the hood
 
-Moment.swift uses the [JavaScriptCore Framework](https://developer.apple.com/documentation/javascriptcore) to run moment.js from within Swift. Under the hood, moment.swift is simply a wrapper around the moment.js library. By sharing the same code base, moment.swift can benefit from years of testing and bug fixes and can be easily updated every time moment.js is updated.
+The goal of this project is to help developers leverage the power of moment.js in their Swift applications. Moment.swift uses the [JavaScriptCore Framework](https://developer.apple.com/documentation/javascriptcore) to run moment.js from within Swift. Under the hood, moment.swift is simply a wrapper around the moment.js library. By sharing the same code base, moment.swift can benefit from years of testing and bug fixes and can be easily updated every time moment.js is updated.
 
 ## Usage 
 
 Drag and drop [moment.swift](https://raw.githubusercontent.com/etienne-martin/moment.swift/master/moment.swift/moment.swift/moment.swift) and [moment-with-locales.min.js](https://raw.githubusercontent.com/etienne-martin/moment.swift/master/moment.swift/moment.swift/moment-with-locales.min.js) into your Xcode project and you're good to go.
+
+###### Supported version 2.19.1
 
 ## Multiple locale support
 
