@@ -17,7 +17,7 @@ Out of the box, moment.swift supports a total of 239 locales. See the moment.js 
 
 ## Full documentation
 
-The [official documentation](https://momentjs.com/docs/) of moment.js can be used. Just make sure to take into account the few syntax variations.
+The [official moment.js documentation](https://momentjs.com/docs/) can be used with moment.swift. Just make sure to take into account the few syntax variations between the JavaScript and Swift versions.
 
 ## Syntax differences
 
