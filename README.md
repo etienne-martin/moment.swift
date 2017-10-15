@@ -15,7 +15,7 @@ Drag and drop [moment.swift](https://raw.githubusercontent.com/etienne-martin/mo
 
 Out of the box, moment.swift supports a total of 239 locales. See the moment.js website for a [list of all supported locales](https://momentjs.com#multiple-locale-support).
 
-## Full documentation
+## Documentation
 
 The [official moment.js documentation](https://momentjs.com/docs/) can be used with moment.swift. Just make sure to take into account the few [syntax variations](https://github.com/etienne-martin/moment.swift#syntax-differences) between the JavaScript and Swift versions.
 
