@@ -1,4 +1,4 @@
-# moment.swift
+# ⏳moment.swift
 A lightweight Swift date library for parsing, validating, manipulating, and formatting dates based on [moment.js](https://github.com/moment/moment). 
 
 ## Under the hood
